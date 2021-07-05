@@ -1,0 +1,23 @@
+
+.input{
+    height: 70%;
+    width: 300px;
+    border: 2px ridge #ffffff;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.agregar{
+    height: 70%;
+    width: 100px;
+    border: 2px ridge #ffffff;
+    border-radius: 5px;
+    color: #2d2c31;
+    background-color: none;
+}
+
+.agregar:hover {
+    background-color: #2d2c31;
+    border: 2px ridge #ffffff;
+    color:#ffffff 
+}

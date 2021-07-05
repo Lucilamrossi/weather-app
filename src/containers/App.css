@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  letter-spacing: 0.4px;
+  word-spacing: 1px;
+  color: #2d2c31;
+  font-weight: 400;
+  text-decoration: none solid rgb(68, 68, 68);
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  background-image: url('../img/sky4.jpg');
+  height: 100%;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
