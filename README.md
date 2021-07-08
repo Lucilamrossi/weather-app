@@ -1,5 +1,11 @@
 # weather-app
 
+## Check out the website working:
+> <a href="https://weather-app-lucilamrossi.netlify.app/" target="blank">Click here!</a>
+
+## Or watch a video here:
+> <a href="https://vimeo.com/572410575" target="blank">Check the video!</a>
+
 ## Introduction
 
 > This is an educational proyect made by Lucila Rossi as an assigment for the soyHenry's bootcamp in order to practice React tools. 
@@ -13,7 +19,7 @@
 5. Run "npm start" and enjoy the app!
 
 ## Some previews!
-> Check the<a href="https://vimeo.com/572410575" target="blank"> video!</a>
+> Check some previews from the website
 
 1. Home page as soon as you enter the webSite
 <p align="center">
