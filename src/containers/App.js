@@ -15,7 +15,7 @@ function App() {
 
   function onSearch(name) {
 
-    fetch(`http://api.openweathermap.org/data/2.5/weather?q=${name}&appid=${apiKey}`)
+    fetch(`https://api.openweathermap.org/data/2.5/weather?q=${name}&appid=${apiKey}`)
       .then(city => city.json())
       .then((city) => {
         if(city.main !== undefined){
