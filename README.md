@@ -6,9 +6,12 @@
 ## Or watch a video here:
 > <a href="https://vimeo.com/572410575" target="blank">Check the video!</a>
 
-## Introduction
+## Introduction and Tecnologies
 
-> This is an educational proyect made by Lucila Rossi as an assigment for the soyHenry's bootcamp in order to practice React tools. 
+> This is an educational project made by Lucila Rossi as an assigment for the soyHenry's bootcamp. 
+> The website was made entirely with React, getting information from an external API. 
+> The styles were made with bootstrap and some css
+> The purpose of this project was to learn and practice the React flow
 
 ## Instructions
 
