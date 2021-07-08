@@ -1,59 +1,10 @@
-/* .navSt {
-  display: grid;
-  grid-template-columns: 30% 25% 45%;
-  background-color: gray;
-  padding: 3px;
-  align-items: center;
-  height: 70px;
+.activeNav span{
+  background-color: rgba(255, 255, 255, 0.2);
+  transition: 0.5s ease;
+  border-radius: 10px;
 }
 
-.logoTitulo {
-  display: flex;
-  grid-column: 1;
+.btnNav {
+  margin: 0;
+  padding: 0.5rem;
 }
-#logoHenry {
-  margin: 0px;
-  width: 30;
-  height: 30;
-}
-
-.tituloNav {
-  justify-self: start;
-  margin-bottom: 0;
-  align-self: center;
-  padding-left: 10px;
-} */
-
-#logoHenry {
-  margin-right: 20px;
-}
-
-.header {
-  padding: 20px;
-  text-align: center;
-  height: 150px;
-  align-content: center;
-  justify-items: center;
-}
-
-.header p {
-  font-weight: 1200;
-  font-size: 400%;
-  align-self: center;
-  justify-self: center;
-}
-
-/* .about {
-  grid-column: 2;
-}
-
-.searchNav {
-  justify-content: center;
-  align-items: center;
-  display: flex;
-  height: 70px;
-  align-self: flex-end;
-  grid-column: 3;
-} */
-
-

@@ -2,7 +2,7 @@
   margin: 20px;
   width: 18rem;
   padding: 4px;
-  background-color: rgba(120, 120, 120, 0.4);
+  background-color: rgba(120, 120, 120, 0.6);
   border: 2px solid #FFFFFF;
 }
 
@@ -11,12 +11,20 @@
   top: -10px;
   display: flex;
   justify-content: center;
+  font-size: 40px;
 }
-.card-title h1 {
-    display: flex;
-    position: relative;
-    justify-self: start;
+
+.card-title a:hover {
+  text-decoration: none;
+  color: #2d2c31;
+  
 }
+
+.card-title a {
+  color: rgba(255, 255, 255, 0.8);
+  transition: 0.4s ease;
+}
+
 .body {
   display: flex;
   align-content: center;
@@ -25,17 +33,19 @@
 
 #closeIcon {
   display: flex;
-  justify-content: flex-end
+  justify-content: flex-end;
+  
 }
 
 #closeIcon button {
   display: flex;
-    padding: 0px;
-    border: 2px ridge #FFFFFF;
-    border-radius: 5px;
-    align-items: center;
-    justify-content: center;
-    background-color: none;
+  padding: 0px;
+  border: 2px ridge #FFFFFF;
+  border-radius: 5px;
+  align-items: center;
+  justify-content: center;
+  background-color: none;
+  transition: 0.2s ease;
 }
 
 #closeIcon button img {
@@ -52,9 +62,9 @@
 .card-body {
   margin-top: 0px !important;
   padding-top: 0px !important;
-  
 }
-.temperaturas {
+
+.tenperatures {
   display: grid;
   grid-template-columns: 80px 80px;
   grid-column: auto;

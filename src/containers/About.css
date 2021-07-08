@@ -1,0 +1,20 @@
+.container-about {
+  background-color: rgba(255, 255, 255, 0.4);
+  padding: 1rem 3rem;
+  margin: 1rem;
+  width: fit-content;
+  border-radius: 1rem;
+  border: solid 1px #2d2c31;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container-about a {
+  color: #2d2c31;
+  transition: 0.3s ease;
+}
+
+.container-about a:hover {
+  color: rgb(106, 104, 112);
+}

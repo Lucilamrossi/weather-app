@@ -1,8 +1,9 @@
 import React from 'react';
-import './Cards.css';
 import Card from './Card.jsx';
+import './Cards.css';
 
-export default function Cards({cities, onClose}) {
+export default function Cards ({cities, onClose}) {
+
   if(cities.length > 0){
     return (
       <div className='cards'>
@@ -19,7 +20,7 @@ export default function Cards({cities, onClose}) {
     );
   } else {
     return (
-      <p>Sin ciudades</p>
+      <p>No cities found</p>
     )
   }
 }

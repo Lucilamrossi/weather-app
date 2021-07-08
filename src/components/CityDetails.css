@@ -1,0 +1,31 @@
+.container {
+  background-color: rgba(255, 255, 255, 0.4);
+  padding: 1rem 3rem;
+  margin: 1rem;
+  width: fit-content;
+  border-radius: 1rem;
+  border: solid 1px #2d2c31;
+}
+
+.container p {
+  margin: 0;
+}
+
+.title {
+  border-bottom: solid 1px #2d2c31;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.title p{
+  font-size: 60px;
+}
+
+.info {
+  font-size: 25px;
+}
+
+.label{
+  font-weight: bold;
+}

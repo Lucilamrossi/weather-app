@@ -1,0 +1,14 @@
+.search {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin-bottom: 20px;
+} 
+
+.header {
+  padding-top: 20px;
+}
+
+.header p {
+  font-size: 400%;
+}
