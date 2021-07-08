@@ -13,6 +13,7 @@
 5. Run "npm start" and enjoy the app!
 
 ## Some previews!
+> Check the<a href="https://vimeo.com/572357711" target="blank"> video!</a>
 
 1. Home page as soon as you enter the webSite
 <p align="center">
